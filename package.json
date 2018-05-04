@@ -1,0 +1,31 @@
+{
+  "name": "hexo-generator-search-zip",
+  "version": "0.0.1",
+  "description": "Seach Zip generator plugin for Hexo",
+  "main": "index",
+  "directories": {
+    "lib": "./lib"
+  },
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "keywords": [
+    "hexo",
+    "search",
+    "generator",
+    "zip"
+  ],
+  "author": "Kieran <i@kieran.top> (https://github.com/SuperKieran)",
+  "license": "MIT",
+  "dependencies": {
+    "archiver": "^2.1.1"
+  },
+  "bugs": {
+    "url": "https://github.com/SuperKieran/hexo-generator-search-zip/issues"
+  },
+  "homepage": "https://github.com/SuperKieran/hexo-generator-search-zip",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SuperKieran/hexo-generator-search-zip.git"
+  }
+}
