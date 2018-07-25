@@ -8,7 +8,10 @@ Generate zip search data for Hexo 3.0. This plugin is used for generating a sear
 - [Demo](https://go.kieran.top) - try out the search engine in this site's sidebar.
 - [Demo Zip output](https://github.com/SuperKieran/hexo-generator-search-zip/blob/master/output/search.zip)
 
-## Install
+## Guide
+https://go.kieran.top/post/45/
+
+## Installation
 
 ``` bash
 $ npm install hexo-generator-search-zip --save
